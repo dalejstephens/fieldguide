@@ -2,8 +2,8 @@
 
 I’m writing this **Field Guide to Startups** with two goals in mind:
 
-Sharing what I learned after a decade in San Francisco
-Putting the expertise I share with coaching clients into a central place
+1. Sharing what I learned after a decade in San Francisco
+2. Putting the expertise I share with coaching clients into a central repository
 
 I’ve broken Dale’s Field Guide to Startups down into three sections (for now):
 
