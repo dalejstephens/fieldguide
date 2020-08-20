@@ -7,9 +7,9 @@ Putting the expertise I share with coaching clients into a central place
 
 I’ve broken Dale’s Field Guide to Startups down into three sections (for now):
 
-*Self-management
-*Company management
-*Team management 
+1. Self-management
+2. Company management
+3. Team management 
 
 To start, I’m going to compile links to the best resources & eventually share more of my own experiences.
 
