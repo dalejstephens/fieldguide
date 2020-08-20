@@ -1,6 +1,6 @@
 # Start Here :) 
 
-I’m writing this document with two goals in mind:
+I’m writing this **Field Guide to Startups** with two goals in mind:
 
 Sharing what I learned after a decade in San Francisco
 Putting the expertise I share with coaching clients into a central place
